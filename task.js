@@ -51,7 +51,3 @@ Student.prototype.exclude = function(reason) {
   return Student;
    
 } 
-
-
-
- 
